@@ -16,5 +16,5 @@ This project provides two main functions which are showing `username` and `passw
 3. The TCP connnection between a victim's computer and the controller will be established after showing the `password`.
 
 ## Thanks
-- Thanks to the project of EggShell
+- Thanks to the project of [EggShell](https://github.com/neoneggplant/EggShell)
 - Thanks to the project of fyne
