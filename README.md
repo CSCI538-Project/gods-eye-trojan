@@ -1,4 +1,4 @@
-# gods-eye-trojan
+# God's Eye Trojan
 
 ## Introduction
 This project provides two main functions which are showing `username` and `password` for Web Authorization and establishing a TCP connection with the controller (the Server).
